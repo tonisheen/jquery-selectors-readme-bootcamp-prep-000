@@ -7,4 +7,6 @@ function lastImageSelector() {
   return $('img:last-of-type');
 }
 
-function  
+function  ninjaBabySelector() {
+  return $('#')
+}

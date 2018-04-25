@@ -6,3 +6,5 @@ function paragraphSelector() {
 function lastImageSelector() {
   return $('img:last-of-type');
 }
+
+function  
